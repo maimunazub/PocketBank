@@ -1,2 +1,1 @@
-# PocketBank
-PocketBank – A lightweight offline banking app built with Streamlit for secure account management, deposits, and withdrawals with local JSON storage
+Simple CLI Banking System — A lightweight command-line banking application built with Python. Supports account creation, secure login, deposits, withdrawals, money transfers, and transaction history tracking. Data is stored in JSON for persistence. No external dependencies required.
